@@ -38,11 +38,11 @@ end
 end
 
 --Put your name here!
-MyName = "leadenhe"
+MyName = "cronos"
  
 function OnLoad()
 	-- Analize if you are leaden
-	if (MyName == "leadenhe") then
+	if (MyName == "cronos") then
 		-- We will do this if the result is possitive
 		PrintChat("Hello Cronos! Is good to see you again")
 	else
